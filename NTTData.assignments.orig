@@ -1,0 +1,7 @@
+this is my first commit
+<<<<<<< HEAD
+changes from master
+changes from master to nttassignments
+=======
+this is Nttassignments
+>>>>>>> Added new info in file from core branch
